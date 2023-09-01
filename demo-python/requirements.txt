@@ -1,0 +1,7 @@
+azure-search-documents>11.3 --pre
+openai
+python-dotenv
+openai
+azure-functions
+requests
+tenacity
